@@ -1,0 +1,13 @@
+.card {
+  background-color: powderblue;
+  border-color: black;
+}
+
+.crdContainer {
+  background-color: transparent;
+  padding-bottom: 30px;
+}
+
+.cntctTitle {
+  background-color: cadetblue;
+}
