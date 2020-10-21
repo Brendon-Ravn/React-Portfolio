@@ -5,7 +5,7 @@ function Footer() {
   return (
     <>
       <footer className="footer">
-          <div className="mt-auto py-3">
+          <div className="mt-auto">
             site built by <u>Brendon Conatser</u>
           </div>
       </footer>
