@@ -1,0 +1,44 @@
+.container {
+  background-color: transparent;
+}
+
+.profilePic {
+  width: 300px;
+  height: 300px;
+}
+
+.aboutMe {
+  color: white;
+}
+
+.amTitle {
+  background-color: cadetblue;
+}
+
+
+.card-body {
+  background-color: powderblue;
+  border-color: black;
+}
+
+.cntnrTitle {
+  background-color: transparent;
+  padding-bottom: 30px;
+}
+
+.portTitle {
+  background-color: cadetblue;
+}
+
+.crdContainer {
+  background-color: transparent;
+  padding-bottom: 30px;
+}
+
+.cntctTitle {
+  background-color: cadetblue;
+}
+
+.card {
+  margin: 20px;
+}
