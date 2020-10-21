@@ -3,7 +3,7 @@ This is an updated version of my portfolio site using React.
 
 ## Usage
 
-![image](./src/images/Portfolio1.png)
+![image](./client/src/images/Portfolio1.png)
 
 ## Installation
 
