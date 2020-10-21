@@ -2,7 +2,7 @@ import React from "react";
 import { Link, useLocation } from "react-router-dom";
 import "./pages/page.css";
 
-function NavTabs() {
+function Header() {
   
   const location = useLocation();
   return (
@@ -32,4 +32,4 @@ function NavTabs() {
   );
 }
 
-export default NavTabs;
+export default Header;
