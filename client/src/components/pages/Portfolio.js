@@ -6,6 +6,7 @@ import CodingQuiz from "../../images/Coding-Quiz.png";
 import Dybs from "../../images/Dybs.png";
 import WthrDshbrd from "../../images/Weather-Dashboard.png";
 import WrkdaySched from "../../images/Workday-Scheduler.png";
+import resume from "../../Assets/BIC-Resume.pdf";
 
 function Portfolio() {
   return (
@@ -104,7 +105,7 @@ function Portfolio() {
         <section className="row">
           <div className="col-lg-5"></div>
           <div className="col-lg-2">
-            <a href="Assets/BIC-Resume.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-primary">My Resume</a>
+            <a href={resume} target="_blank" rel="noopener noreferrer" className="btn btn-primary">My Resume</a>
           </div>
           <div className="col-lg-5"></div>
         </section>
