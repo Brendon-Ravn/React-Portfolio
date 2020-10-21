@@ -42,3 +42,13 @@
 .card {
   margin: 20px;
 }
+
+.nav {
+  background-color: cadetblue;
+  border-color: black;
+}
+
+.nav-link {
+  background-color: black;
+}
+
