@@ -45,11 +45,12 @@
 
 .nav {
   background-color: black;
-  border-color: black;
+  border-color: black !important;
 }
 
 .nav-link {
   background-color: black;
+  color: white;
 }
 
 .footer {
@@ -59,4 +60,10 @@
   bottom: 0px;
   right: 0px;
   left: 0px;
+}
+
+.active {
+  background-color: cadetblue !important;
+  color: black !important;
+  border-color: black !important;
 }
