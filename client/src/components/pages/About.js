@@ -27,7 +27,7 @@ function About() {
               the disabled. With all of those other jobs I felt like something was missing. Over the years I've come to
               realize I didn't truly feel challenged in my workplace. That is one thing I have really come to enjoy about
               coding and web development, the challenge. I love looking at the different lines of code and trying to figure
-              out how to make it better or condense it to a more readable style.
+              out how to make it better or refactor it to a more readable style.
           </p>
             <br />
             <p>
