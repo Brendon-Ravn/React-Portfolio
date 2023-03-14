@@ -18,7 +18,7 @@ function About() {
           <div className="col-lg-7 aboutMe">
             <p>
               Hi, my name is Brendon Conatser. I live in Murfreesboro, TN with my wife Brittany and 2 children, Isaac and
-              Audrey. I love gaming, music, fishing, and just hanging out with my family. I recently graduated from 
+              Audrey. I love gaming, music, fishing, and just hanging out with my family. I am a graduate of 
               Vanderbilt's Full Stack Web Development Bootcamp.
           </p>
             <br />
